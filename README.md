@@ -89,11 +89,5 @@ A lightweight, interactive token explorer for GPT‑2’s vocabulary, built with
 
 ---
 
-## 📄 License
-
-[MIT](./LICENSE)
-
----
-
 > Built with ❤️ by [William64](https://github.com/suttonwilliamd)
 
